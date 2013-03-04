@@ -1,0 +1,1664 @@
+{
+	"folder_history":
+	[
+		"/D/workspace/RJ-CMS7/src/com/rongji/cms/persistence",
+		"/D/workspace/RJ-CMS7/.svn",
+		"/C/Users/rjf/Downloads/EaselJS-release_v0.6.0/examples",
+		"/C/Program Files/Sublime Text 2.0.1/Data",
+		"/C/Program Files/Sublime Text 2.0.1/Pristine Packages",
+		"/E/Workspace/ContactManagerSwing",
+		"/C/Users/rjf/Downloads/jdk1.6.0_38/demo/jfc/SwingSet2/src",
+		"/C/Java",
+		"/E/ff",
+		"/E/Workspace/ContactManagerSwing/src/com/rongji/test/vali"
+	],
+	"last_window_id": 13,
+	"settings":
+	{
+		"new_window_height": 702.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"t",
+						"tt"
+					],
+					[
+						"a",
+						"Afe"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 58.0,
+				"selected_items":
+				[
+					[
+						"form",
+						"Format: Javascript"
+					],
+					[
+						"for",
+						"Format: Javascript"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"setxml",
+						"Set Syntax: XML"
+					],
+					[
+						"setx",
+						"Set Syntax: XML"
+					],
+					[
+						"xml",
+						"Set Syntax: HTML (Rails)"
+					],
+					[
+						"setj",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"FOR",
+						"Format: Javascript"
+					],
+					[
+						"setsht",
+						"Set Syntax: HTML"
+					],
+					[
+						"w",
+						"Word Wrap: Toggle"
+					],
+					[
+						"hex",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"pci",
+						"Package Control: Discover Packages"
+					],
+					[
+						"packli",
+						"Package Control: List Packages"
+					],
+					[
+						"disp",
+						"Package Control: Disable Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ssjso",
+						"Set Syntax: JSON"
+					],
+					[
+						"ssj",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"page clis",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ssja",
+						"Set Syntax: Java"
+					],
+					[
+						"ssjava",
+						"Set Syntax: Java"
+					],
+					[
+						"packagecd",
+						"Package Control: Disable Package"
+					],
+					[
+						"setsja",
+						"Set Syntax: Java"
+					],
+					[
+						"hexview",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"hexv",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"listp",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"packagecre",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"zencoding",
+						"Zen Coding: Zen as you type"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						"git",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ssb",
+						"View: Toggle Status Bar"
+					],
+					[
+						"vsb",
+						"View: Toggle Open Files in Side Bar"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/server 2.log",
+				"/C/Users/rjf/Downloads/springside4-4.0.1.GA/examples/quickstart/src/main/resources/application.properties",
+				"/C/Users/rjf/Downloads/springside4-4.0.1.GA/examples/quickstart/src/main/webapp/WEB-INF/spring-mvc.xml",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/fjmh/templates/00000390/department_index_bu_preview.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/content_preview.jsp",
+				"/D/apache-tomcat-6.0.32/webapps/cms/WEB-INF/applicationContext.xml",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/fjmh/templates/include/frame_c_row_list.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/cms_fpd_config.xml",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/fjmh/templates/00000377/investment_index.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/alzs.jsp",
+				"/D/apache-tomcat-6.0.32/webapps/cms/fpd/resizeIFrameH.html",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/alzs.html",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/cms_config 2.xml",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/fjmh/templates/00000390/department_index_preview.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/interaction_index_v2_preview.jsp",
+				"/J/file/project/minhou/20121025/jboss-4.2.3.GA/server/default/deploy/dataSourceCustom.war/WEB-INF/applicationContext.xml",
+				"/J/file/project/minhou/20121025/jboss-4.2.3.GA/server/default/deploy/cms.war/WEB-INF/applicationContext.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/12345.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/server.log",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/web 2.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/fpd.jsp",
+				"/D/workspace/RJ-CMS7-jar/src/com/rongji/dfish/sso/client/DFishSSOFilter.java",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/applicationContext 3.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/applicationContext.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/applicationContext 2.xml",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/codemirror-3.02/lib/codemirror.js",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/codemirror-3.02/demo/complete.html",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/codemirror-3.02/mode/htmlembedded/htmlembedded.js",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/codemirror-3.02/mode/javascript/javascript.js",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/codemirror-3.02/addon/hint/javascript-hint.js",
+				"/C/Users/rjf/Downloads/EaselJS-release_v0.6.0/examples/GlobalToLocal1.html",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/spring-mvc-servlet.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/web.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/sso_config.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/springHandler-servlet.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/sso-controller.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/application.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/cms_log_config.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/cms_config.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/list.html",
+				"/C/Users/rjf/Downloads/EaselJS-release_v0.6.0/src/easeljs/display/DOMElement.js",
+				"/C/Users/rjf/Downloads/EaselJS-release_v0.6.0/examples/HelloWorld.html",
+				"/D/workspace/RJ-CMS7/WebRoot/js/main.js",
+				"/D/workspace/RJ-CMS7/WebRoot/js/base.js",
+				"/D/workspace/RJ-CMS7/WebRoot/js/vm/dl.js",
+				"/D/workspace/RJ-CMS7/WebRoot/js/vm/rl.js",
+				"/C/Users/rjf/Desktop/a.csv",
+				"/C/Users/rjf/Desktop/t",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/codemirror-3.02/addon/hint/simple-hint.js",
+				"/C/Users/rjf/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/B5EFD51Y/securityJson.json",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/htmlembedded/index.html",
+				"/D/项目/cms/实施/server.log",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/js/complete.html",
+				"/D/项目/cms/实施/login_index_preview.jsp",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/draw.xml.jsp",
+				"/D/项目/cms/实施/vedio.jsp",
+				"/J/file/project/minhou/20121025/jboss-4.2.3.GA/server/default/log/server.log",
+				"/J/file/project/minhou/20121025/jboss-4.2.3.GA/server/default/log/server.log.2013-02-05-15",
+				"/C/Users/rjf/Downloads/Compressed/codemirror-3.02/demo/complete.html",
+				"/J/1项目环境/工具备份/ruanjiefeng/jquery-1.4.3.js",
+				"/D/项目/cms/实施/installActions2013-01-31_12-59-26PM.log",
+				"/C/Program Files (x86)/OracleClient10201/network/ADMIN/tnsnames.ora",
+				"/C/Program Files/Sublime Text 2/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/rjf/Downloads/Compressed/codemirror-3.02/addon/edit/closetag.js",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/index_v2.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/server.log",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/frame_c_row_list.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/list_sub_service.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/list_sub_service_preview.jsp",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/README.md",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/rpm/spec/index.html",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/javascript/index.html",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/css/index.html",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/tiddlywiki/index.html",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/diff/index.html",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/clojure/index.html",
+				"/C/Users/rjf/AppData/Local/Temp/Rar$DI82.880/plugin.xml",
+				"/C/Users/rjf/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/DHRKLV09/interaction_index_v2.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/httpd.conf",
+				"/D/apache-tomcat-6.0.32/conf/server.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/index.html",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/apr-1-config",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/index_preview.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/Makefile.PL",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/make_etags",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/config.pl",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/xs_generate.pl",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/check",
+				"/K/nodejs/webapps/drag/css/base.css",
+				"/K/nodejs/webapps/drag/index.html",
+				"/K/nodejs/webapps/drag/js/drag.js",
+				"/K/nodejs/webapps/drag/js/jquery.gridster.with-extras.js",
+				"/J/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/list_preview.jsp",
+				"/J/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/list.html",
+				"/J/2项目开发/实施/monitoring/mt.sh",
+				"/C/Users/rjf/AppData/Local/Temp/Rar$DI71.896/template.xml",
+				"/D/项目/cms/rjcms7.sql",
+				"/J/workspace/markup-validator/htdocs/config/validator.conf",
+				"/J/workspace/markup-validator/httpd/conf/httpd.conf",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/nginx.conf",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/config.inc.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/config.inc 2.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/index 2.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/mainPage.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/navBar.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/frmWorkArea.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/custom_config.inc.php.example",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/staticPage.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/const.inc.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/common.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/login.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/httpd-vhosts.conf",
+				"/K/nodejs/webapps/drag/development-bundle/grunt.js",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/httpd-xampp.conf",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/httpd.conf",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/index.php",
+				"/K/linux/nginx.conf",
+				"/K/linux/nginx-esb.conf",
+				"/J/tools/hibernate-3.1/build.xml",
+				"/J/apache-tomcat-6.0.32/webapps/cms/res_root/fjmh/templates/00000383/about.jsp",
+				"/J/apache-tomcat-6.0.32/webapps/cms/fpd/global.inc.jsp",
+				"/I/cms/前端定制/模板/mobile_ui_0114/m/modify-0111.css",
+				"/J/apache-tomcat-6.0.32/bin/startup_jprofiler.bat",
+				"/J/apache-tomcat-6.0.32/bin/catalina.bat",
+				"/J/apache-tomcat-6.0.32/bin/startup.bat",
+				"/J/apache-tomcat-6.0.32/bin/startup.sh",
+				"/I/cms/前端定制/模板/mobile_ui_0114/00/style/_notes/dwsync.xml"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\\\\",
+					"\\",
+					"xxx",
+					"/interact",
+					"<title>",
+					"start ",
+					"VM",
+					"start  ",
+					" VM ",
+					"VM ",
+					"VM",
+					"startOperation",
+					"operation",
+					"cursorCoords",
+					"getToken",
+					"parseJS",
+					"token",
+					"getTokenAt",
+					"replaceRange",
+					"operation",
+					"isModifierKey",
+					"somethingSelected",
+					"btn_tpl_data",
+					"$",
+					"\"",
+					"String tempId",
+					"\\n",
+					"$",
+					"\"",
+					"javascript",
+					"ctrl+alt+",
+					"ctrl+alt+F",
+					"ctrl+alt+f",
+					"ctrl+shift",
+					"type: f",
+					"type:",
+					"isarray:",
+					"toString",
+					"class2type",
+					"isarray",
+					"content=",
+					"(\\w+)",
+					"$",
+					"20111027469188",
+					"LOOPINDEX",
+					"dataSourceCustom",
+					"Proxy",
+					"LocationMatch",
+					"AliasMatch",
+					"MP_APR_CONFIG",
+					"location",
+					"reqURI",
+					"init_args",
+					"(\\d+)\\s+(\\w+)",
+					"(\\d+)",
+					",",
+					"(\\d+)",
+					"\\n",
+					"\\r\\n",
+					"(\\d+)",
+					",",
+					"(\\d+)",
+					"(\\d)",
+					", ",
+					"\"",
+					"java_opts",
+					"head",
+					"21",
+					"61",
+					"51",
+					"41",
+					"60",
+					"50",
+					"40",
+					"300",
+					"250",
+					"200",
+					"100",
+					"50",
+					"960",
+					"1",
+					"sizex",
+					"1",
+					"2",
+					"6",
+					"5",
+					"4",
+					"140",
+					"20",
+					"2",
+					"20",
+					"140",
+					"6",
+					"5",
+					"4",
+					"3",
+					"2",
+					"1",
+					"140",
+					"root",
+					"li",
+					"</li>",
+					"div",
+					"li",
+					"ul",
+					"\n",
+					"marked",
+					"{\n",
+					"            \n",
+					"        \n",
+					"    \n",
+					"encoding",
+					"dist",
+					"libs/jquery",
+					"api_files/",
+					"api.html",
+					"    </testsuite>",
+					"    <testsuite name=\"(.*?)\" time=\"(.*?)\">",
+					"      <testcase name=\"(.*?)\" classname=\"com.rongji.test.remains.RemainsTest\" time=\"(.*?)\"/>",
+					",\n",
+					"api.htm",
+					"About this Documentation Node.js v0.8.16 Manual & Documentation.htm",
+					"About this Documentation Node.js v0.8.16 Manual & Documentation_files",
+					"http://nodejs.org/api/all.html#",
+					"断点续传（暂不支持）",
+					"ctrl+shift+d",
+					"format",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": true,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\\\\\\\",
+					"\"+",
+					"\"",
+					"\\\\\"",
+					"\\\"",
+					"\\R",
+					"\\r",
+					"\"+",
+					"\\\"",
+					"$1(\"text/x-$1\", \"$1/$1.js\")",
+					"$1(\"$1\", \"$1/$1.js\")",
+					"$1(\"$1\", \"\")",
+					",",
+					",$",
+					"(\\2)objs[\\1],//",
+					"objs[\\1],//",
+					"\\n",
+					"objs[\\1],",
+					", ",
+					",",
+					"objs[\\1]",
+					",                 ",
+					"\\r",
+					"\\\"",
+					"Block</li>",
+					"node/",
+					"",
+					"index.html",
+					"",
+					"$1 $2",
+					"api.html",
+					"api.htm",
+					"api_files",
+					"#",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"output.hex_viewer_inspector":
+			{
+				"height": 112.0
+			},
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"gr",
+						"/C/Program Files/node/node_modules/npm/node_modules/graceful-fs/graceful-fs.js"
+					],
+					[
+						"d",
+						"DemoModule.java"
+					],
+					[
+						"i",
+						"InternalFrameDemo.java"
+					],
+					[
+						"demo",
+						"DemoModule.java"
+					],
+					[
+						"int",
+						"InternalFrameDemo.java"
+					],
+					[
+						"test",
+						"/E/Workspace/ContactManagerSwing/src/com/rongji/test/TestFsp.java"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 219.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1102.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"t",
+						"tt"
+					],
+					[
+						"a",
+						"Afe"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "未修改\n循环输出\n源码预览结果\n\nrongji591 问题查看\n\n\n闽侯\n1、列表页include 多出cms:list\n2、循环输出loop标签错误（390模板套）",
+					"settings":
+					{
+						"buffer_size": 83,
+						"line_ending": "Windows",
+						"name": "未修改"
+					}
+				},
+				{
+					"contents": "前端定制二次开发（实施方向）\n 1、扩展类型添加培训（主讲）\n 2、最近这段时间添加的新功能介绍\n 3、焦点图添加培训（...）\n 4、常用操作过程培训\n\n安装部署",
+					"settings":
+					{
+						"buffer_size": 82,
+						"line_ending": "Windows",
+						"name": "前端定制二次开发（实施方向）"
+					}
+				},
+				{
+					"file": "/D/workspace/RJ-CMS7/WebRoot/WEB-INF/applicationContext.xml",
+					"settings":
+					{
+						"buffer_size": 74026,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/workspace/RJ-CMS7/WebRoot/WEB-INF/config/cms_config.xml",
+					"settings":
+					{
+						"buffer_size": 15544,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 58.0,
+				"selected_items":
+				[
+					[
+						"form",
+						"Format: Javascript"
+					],
+					[
+						"for",
+						"Format: Javascript"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"setxml",
+						"Set Syntax: XML"
+					],
+					[
+						"setx",
+						"Set Syntax: XML"
+					],
+					[
+						"xml",
+						"Set Syntax: HTML (Rails)"
+					],
+					[
+						"setj",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"FOR",
+						"Format: Javascript"
+					],
+					[
+						"setsht",
+						"Set Syntax: HTML"
+					],
+					[
+						"w",
+						"Word Wrap: Toggle"
+					],
+					[
+						"hex",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"pci",
+						"Package Control: Discover Packages"
+					],
+					[
+						"packli",
+						"Package Control: List Packages"
+					],
+					[
+						"disp",
+						"Package Control: Disable Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ssjso",
+						"Set Syntax: JSON"
+					],
+					[
+						"ssj",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"page clis",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ssja",
+						"Set Syntax: Java"
+					],
+					[
+						"ssjava",
+						"Set Syntax: Java"
+					],
+					[
+						"packagecd",
+						"Package Control: Disable Package"
+					],
+					[
+						"setsja",
+						"Set Syntax: Java"
+					],
+					[
+						"hexview",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"hexv",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"listp",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"packagecre",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"zencoding",
+						"Zen Coding: Zen as you type"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						"git",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ssb",
+						"View: Toggle Status Bar"
+					],
+					[
+						"vsb",
+						"View: Toggle Open Files in Side Bar"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/index.html",
+				"/D/workspace/RJ-CMS7/WebRoot/WEB-INF/applicationContext.xml",
+				"/D/workspace/RJ-CMS7/WebRoot/WEB-INF/cms.properties",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/server 2.log",
+				"/D/workspace/RJ-CMS7/WebRoot/WEB-INF/config/cms_config.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/department_index.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/department_index_bu_preview.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/department_index_bu.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/department_index_preview.jsp",
+				"/D/workspace/RJ-CMS7/src/com/rongji/cms/persistence/bak/test/CmsArDownload.hbm.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/nginx.conf",
+				"/J/1项目环境/工具备份/14.100/nginx/conf/nginx.conf",
+				"/C/Users/rjf/Downloads/springside4-4.0.1.GA/examples/quickstart/src/main/webapp/WEB-INF/web.xml",
+				"/C/Users/rjf/Downloads/springside4-4.0.1.GA/examples/showcase/src/main/resources/application.properties",
+				"/C/Users/rjf/Downloads/springside4-4.0.1.GA/examples/quickstart/src/main/resources/applicationContext.xml",
+				"/C/Users/rjf/Downloads/springside4-4.0.1.GA/examples/quickstart/src/main/resources/application.properties",
+				"/C/Users/rjf/Downloads/springside4-4.0.1.GA/examples/quickstart/src/main/webapp/WEB-INF/spring-mvc.xml",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/fjmh/templates/00000390/department_index_bu_preview.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/content_preview.jsp",
+				"/D/apache-tomcat-6.0.32/webapps/cms/WEB-INF/applicationContext.xml",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/fjmh/templates/include/frame_c_row_list.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/cms_fpd_config.xml",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/fjmh/templates/00000377/investment_index.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/alzs.jsp",
+				"/D/apache-tomcat-6.0.32/webapps/cms/fpd/resizeIFrameH.html",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/alzs.html",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/cms_config 2.xml",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/fjmh/templates/00000390/department_index_preview.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/interaction_index_v2_preview.jsp",
+				"/J/file/project/minhou/20121025/jboss-4.2.3.GA/server/default/deploy/dataSourceCustom.war/WEB-INF/applicationContext.xml",
+				"/J/file/project/minhou/20121025/jboss-4.2.3.GA/server/default/deploy/cms.war/WEB-INF/applicationContext.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/12345.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/server.log",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/web 2.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/fpd.jsp",
+				"/D/workspace/RJ-CMS7-jar/src/com/rongji/dfish/sso/client/DFishSSOFilter.java",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/applicationContext 3.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/applicationContext.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/applicationContext 2.xml",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/codemirror-3.02/lib/codemirror.js",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/codemirror-3.02/demo/complete.html",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/codemirror-3.02/mode/htmlembedded/htmlembedded.js",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/codemirror-3.02/mode/javascript/javascript.js",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/codemirror-3.02/addon/hint/javascript-hint.js",
+				"/C/Users/rjf/Downloads/EaselJS-release_v0.6.0/examples/GlobalToLocal1.html",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/spring-mvc-servlet.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/web.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/sso_config.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/springHandler-servlet.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/sso-controller.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/application.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/cms_log_config.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/cms_config.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/list.html",
+				"/C/Users/rjf/Downloads/EaselJS-release_v0.6.0/src/easeljs/display/DOMElement.js",
+				"/C/Users/rjf/Downloads/EaselJS-release_v0.6.0/examples/HelloWorld.html",
+				"/D/workspace/RJ-CMS7/WebRoot/js/main.js",
+				"/D/workspace/RJ-CMS7/WebRoot/js/base.js",
+				"/D/workspace/RJ-CMS7/WebRoot/js/vm/dl.js",
+				"/D/workspace/RJ-CMS7/WebRoot/js/vm/rl.js",
+				"/C/Users/rjf/Desktop/a.csv",
+				"/C/Users/rjf/Desktop/t",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/codemirror-3.02/addon/hint/simple-hint.js",
+				"/C/Users/rjf/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/B5EFD51Y/securityJson.json",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/htmlembedded/index.html",
+				"/D/项目/cms/实施/server.log",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/js/complete.html",
+				"/D/项目/cms/实施/login_index_preview.jsp",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/draw.xml.jsp",
+				"/D/项目/cms/实施/vedio.jsp",
+				"/J/file/project/minhou/20121025/jboss-4.2.3.GA/server/default/log/server.log",
+				"/J/file/project/minhou/20121025/jboss-4.2.3.GA/server/default/log/server.log.2013-02-05-15",
+				"/C/Users/rjf/Downloads/Compressed/codemirror-3.02/demo/complete.html",
+				"/J/1项目环境/工具备份/ruanjiefeng/jquery-1.4.3.js",
+				"/D/项目/cms/实施/installActions2013-01-31_12-59-26PM.log",
+				"/C/Program Files (x86)/OracleClient10201/network/ADMIN/tnsnames.ora",
+				"/C/Program Files/Sublime Text 2/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/rjf/Downloads/Compressed/codemirror-3.02/addon/edit/closetag.js",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/index_v2.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/server.log",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/frame_c_row_list.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/list_sub_service.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/list_sub_service_preview.jsp",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/README.md",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/rpm/spec/index.html",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/javascript/index.html",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/css/index.html",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/tiddlywiki/index.html",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/diff/index.html",
+				"/D/workspace/RJ-CMS7/WebRoot/fpd/CodeMirror/mode/clojure/index.html",
+				"/C/Users/rjf/AppData/Local/Temp/Rar$DI82.880/plugin.xml",
+				"/C/Users/rjf/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/DHRKLV09/interaction_index_v2.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/httpd.conf",
+				"/D/apache-tomcat-6.0.32/conf/server.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/index.html",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/apr-1-config",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/index_preview.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/Makefile.PL",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/make_etags",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/config.pl",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/xs_generate.pl",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-1/check",
+				"/K/nodejs/webapps/drag/css/base.css",
+				"/K/nodejs/webapps/drag/index.html",
+				"/K/nodejs/webapps/drag/js/drag.js",
+				"/K/nodejs/webapps/drag/js/jquery.gridster.with-extras.js",
+				"/J/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/list_preview.jsp",
+				"/J/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/list.html",
+				"/J/2项目开发/实施/monitoring/mt.sh",
+				"/C/Users/rjf/AppData/Local/Temp/Rar$DI71.896/template.xml",
+				"/D/项目/cms/rjcms7.sql",
+				"/J/workspace/markup-validator/htdocs/config/validator.conf",
+				"/J/workspace/markup-validator/httpd/conf/httpd.conf",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/config.inc.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/config.inc 2.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/index 2.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/mainPage.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/navBar.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/frmWorkArea.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/custom_config.inc.php.example",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/staticPage.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/const.inc.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/common.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/login.php",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/httpd-vhosts.conf",
+				"/K/nodejs/webapps/drag/development-bundle/grunt.js",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/httpd-xampp.conf"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"datasource",
+					"datasour",
+					"com.rongji.cms.persistence.CmsCatalogRelation",
+					"\\\\",
+					"\\",
+					"xxx",
+					"/interact",
+					"<title>",
+					"start ",
+					"VM",
+					"start  ",
+					" VM ",
+					"VM ",
+					"VM",
+					"startOperation",
+					"operation",
+					"cursorCoords",
+					"getToken",
+					"parseJS",
+					"token",
+					"getTokenAt",
+					"replaceRange",
+					"operation",
+					"isModifierKey",
+					"somethingSelected",
+					"btn_tpl_data",
+					"$",
+					"\"",
+					"String tempId",
+					"\\n",
+					"$",
+					"\"",
+					"javascript",
+					"ctrl+alt+",
+					"ctrl+alt+F",
+					"ctrl+alt+f",
+					"ctrl+shift",
+					"type: f",
+					"type:",
+					"isarray:",
+					"toString",
+					"class2type",
+					"isarray",
+					"content=",
+					"(\\w+)",
+					"$",
+					"20111027469188",
+					"LOOPINDEX",
+					"dataSourceCustom",
+					"Proxy",
+					"LocationMatch",
+					"AliasMatch",
+					"MP_APR_CONFIG",
+					"location",
+					"reqURI",
+					"init_args",
+					"(\\d+)\\s+(\\w+)",
+					"(\\d+)",
+					",",
+					"(\\d+)",
+					"\\n",
+					"\\r\\n",
+					"(\\d+)",
+					",",
+					"(\\d+)",
+					"(\\d)",
+					", ",
+					"\"",
+					"java_opts",
+					"head",
+					"21",
+					"61",
+					"51",
+					"41",
+					"60",
+					"50",
+					"40",
+					"300",
+					"250",
+					"200",
+					"100",
+					"50",
+					"960",
+					"1",
+					"sizex",
+					"1",
+					"2",
+					"6",
+					"5",
+					"4",
+					"140",
+					"20",
+					"2",
+					"20",
+					"140",
+					"6",
+					"5",
+					"4",
+					"3",
+					"2",
+					"1",
+					"140",
+					"root",
+					"li",
+					"</li>",
+					"div",
+					"li",
+					"ul",
+					"\n",
+					"marked",
+					"{\n",
+					"            \n",
+					"        \n",
+					"    \n",
+					"encoding",
+					"dist",
+					"libs/jquery",
+					"api_files/",
+					"api.html",
+					"    </testsuite>",
+					"    <testsuite name=\"(.*?)\" time=\"(.*?)\">",
+					"      <testcase name=\"(.*?)\" classname=\"com.rongji.test.remains.RemainsTest\" time=\"(.*?)\"/>",
+					",\n",
+					"api.htm",
+					"About this Documentation Node.js v0.8.16 Manual & Documentation.htm",
+					"About this Documentation Node.js v0.8.16 Manual & Documentation_files",
+					"http://nodejs.org/api/all.html#",
+					"断点续传（暂不支持）"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\\\\\\\",
+					"\"+",
+					"\"",
+					"\\\\\"",
+					"\\\"",
+					"\\R",
+					"\\r",
+					"\"+",
+					"\\\"",
+					"$1(\"text/x-$1\", \"$1/$1.js\")",
+					"$1(\"$1\", \"$1/$1.js\")",
+					"$1(\"$1\", \"\")",
+					",",
+					",$",
+					"(\\2)objs[\\1],//",
+					"objs[\\1],//",
+					"\\n",
+					"objs[\\1],",
+					", ",
+					",",
+					"objs[\\1]",
+					",                 ",
+					"\\r",
+					"\\\"",
+					"Block</li>",
+					"node/",
+					"",
+					"index.html",
+					"",
+					"$1 $2",
+					"api.html",
+					"api.htm",
+					"api_files",
+					"#",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/C/Users/rjf/Downloads/jdk1.6.0_38/demo/jfc/SwingSet2/src"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"settings":
+							{
+								"buffer_size": 83,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										83,
+										83
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"auto_name": "未修改",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"settings":
+							{
+								"buffer_size": 82,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										63,
+										63
+									]
+								],
+								"settings":
+								{
+									"auto_name": "前端定制二次开发（实施方向）",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/workspace/RJ-CMS7/WebRoot/WEB-INF/applicationContext.xml",
+							"settings":
+							{
+								"buffer_size": 74026,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										73502,
+										73517
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8 with BOM",
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 31256.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/workspace/RJ-CMS7/WebRoot/WEB-INF/config/cms_config.xml",
+							"settings":
+							{
+								"buffer_size": 15544,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5386,
+										5408
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 0.99,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1302.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"output.hex_viewer_inspector":
+			{
+				"height": 112.0
+			},
+			"position": "0,2,3,-32000,-32000,-1,-1,917,394,156,1512",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"gr",
+						"/C/Program Files/node/node_modules/npm/node_modules/graceful-fs/graceful-fs.js"
+					],
+					[
+						"d",
+						"DemoModule.java"
+					],
+					[
+						"i",
+						"InternalFrameDemo.java"
+					],
+					[
+						"demo",
+						"DemoModule.java"
+					],
+					[
+						"int",
+						"InternalFrameDemo.java"
+					],
+					[
+						"test",
+						"/E/Workspace/ContactManagerSwing/src/com/rongji/test/TestFsp.java"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 219.0,
+			"status_bar_visible": true,
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

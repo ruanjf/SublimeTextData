@@ -1,0 +1,4 @@
+[
+    {"command": "duplicate_line"},
+    {"command": "swap_line_up"}
+]

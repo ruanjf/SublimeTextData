@@ -1,0 +1,20 @@
+[
+	{ "keys": ["f8"], "command": "toggle_setting", "args": {"setting": "word_wrap"} },
+	{ "keys": ["ctrl+enter"], "command": "insert", "args": {"characters": "\n"} },
+	{ "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "Packages/Default/Add Line.sublime-macro"} },
+	{ "keys": ["ctrl+shift+enter"], "command": "run_macro_file", "args": {"file": "Packages/Default/Add Line Before.sublime-macro"} },
+	{ "keys": ["ctrl+shift+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["ctrl+shift+down"], "command": "select_lines", "args": {"forward": true} },
+	{ "keys": ["ctrl+alt+up"], "command": "run_macro_file", "args": {"file": "Packages/User/Duplicate Line Before.sublime-macro"} },
+	{ "keys": ["ctrl+alt+down"], "command": "duplicate_line" },
+	{ "keys": ["alt+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+down"], "command": "swap_line_down" },
+	{ "keys": ["alt+/"], "command": "auto_complete" },
+	{ "keys": ["alt+/"], "command": "replace_completion_with_auto_complete", "context":
+		[
+			{ "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
+			{ "key": "auto_complete_visible", "operator": "equal", "operand": false },
+			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
+		]
+	}
+]

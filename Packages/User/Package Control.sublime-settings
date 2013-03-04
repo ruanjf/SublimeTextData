@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"EncodingHelper",
+		"Git",
+		"HexViewer",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"Nettuts+ Fetch",
+		"Open Folder",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SVN",
+		"ZenCoding"
+	]
+}
