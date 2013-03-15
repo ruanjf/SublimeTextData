@@ -36,7 +36,7 @@ class PreSaveFormatListner(sublime_plugin.EventListener):
 		if(syntaxPath != None):
 			syntax = os.path.splitext(syntaxPath)[0].split('/')[-1].lower()
 
-		formatFile = "js" in ext or "json" in ext or "javascript" in syntax or "json" in syntax
+		formatFile = ext in ['js', 'json'] or "javascript" in syntax or "json" in syntax
 
 		if(s.get("format_on_save") == True and formatFile):
 			view.run_command("js_format")
@@ -79,8 +79,6 @@ class JsFormatCommand(sublime_plugin.TextCommand):
 
 		orig = self.view.substr(replaceRegion)
 		res = jsbeautifier.beautify(orig, opts)
-		if(not formatSelection and settings.get('ensure_newline_at_eof_on_save')):
-			res = res + "\n"
 
 		_, err = merge_utils.merge_code(self.view, edit, orig, res)
 		if err:
