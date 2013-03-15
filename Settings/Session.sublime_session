@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/D/workspace/RJ-CMS7",
 		"/D/workspace/RJ-CMS7/src/com/rongji/cms/persistence",
 		"/D/workspace/RJ-CMS7/.svn",
 		"/C/Users/rjf/Downloads/EaselJS-release_v0.6.0/examples",
@@ -12,7 +13,7 @@
 		"/E/ff",
 		"/E/Workspace/ContactManagerSwing/src/com/rongji/test/vali"
 	],
-	"last_window_id": 13,
+	"last_window_id": 14,
 	"settings":
 	{
 		"new_window_height": 702.0,
@@ -23,27 +24,63 @@
 				"selected_items":
 				[
 					[
-						"t",
-						"tt"
+						"p",
+						"panes"
 					],
 					[
 						"a",
-						"Afe"
+						"active"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"DI",
+						"div	Tag"
+					],
+					[
+						"get",
+						"getWd"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"s",
+						"style"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"t",
+						"tt"
 					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 58.0,
+				"height": 219.0,
 				"selected_items":
 				[
 					[
-						"form",
+						"for",
 						"Format: Javascript"
 					],
 					[
-						"for",
+						"hex",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"form",
 						"Format: Javascript"
 					],
 					[
@@ -77,10 +114,6 @@
 					[
 						"w",
 						"Word Wrap: Toggle"
-					],
-					[
-						"hex",
-						"Hex Viewer: Toggle Hex View"
 					],
 					[
 						"pci",
@@ -204,7 +237,38 @@
 			},
 			"file_history":
 			[
+				"/D/apache-tomcat-6.0.32/logs/catalina.2013-03-13.log",
+				"/D/apache-tomcat-6.0.32/logs/catalina.out",
+				"/D/product/cms/cms7.0启动加载改进/1.1/FileConfigLoader.java",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-3/application.xml",
+				"/D/workspace/RJ-CMS7/WebRoot/WEB-INF/applicationContext.xml",
+				"/D/workspace/RJ-CMS7/WebRoot/WEB-INF/config/cms_config.xml",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00001316/index_preview.jsp",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00001316/index.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/index_women.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/index.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/crossdomain.xml",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00001327/peixun_preview.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/run.conf",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/run.sh",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/application.xml",
+				"/D/product/2013研发团队测试题(v1.1)-阮杰锋/loading.html",
+				"/D/product/2013研发团队测试题(v1.1)-阮杰锋/tab.html",
+				"/D/workspace/RJ-CMS7/WebRoot/res_root/fjmh/templates/00000338/style/layout.css",
+				"/D/workspace/RJ-CMS7/WebRoot/WEB-INF/classes/test/CompanyTest.class",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/index.html",
+				"/D/workspace/RJ-CMS7/WebRoot/WEB-INF/cms.properties",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/server 2.log",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/department_index.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/department_index_bu_preview.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/department_index_bu.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/department_index_preview.jsp",
+				"/D/workspace/RJ-CMS7/src/com/rongji/cms/persistence/bak/test/CmsArDownload.hbm.xml",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/nginx.conf",
+				"/J/1项目环境/工具备份/14.100/nginx/conf/nginx.conf",
+				"/C/Users/rjf/Downloads/springside4-4.0.1.GA/examples/quickstart/src/main/webapp/WEB-INF/web.xml",
+				"/C/Users/rjf/Downloads/springside4-4.0.1.GA/examples/showcase/src/main/resources/application.properties",
+				"/C/Users/rjf/Downloads/springside4-4.0.1.GA/examples/quickstart/src/main/resources/applicationContext.xml",
 				"/C/Users/rjf/Downloads/springside4-4.0.1.GA/examples/quickstart/src/main/resources/application.properties",
 				"/C/Users/rjf/Downloads/springside4-4.0.1.GA/examples/quickstart/src/main/webapp/WEB-INF/spring-mvc.xml",
 				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/fjmh/templates/00000390/department_index_bu_preview.jsp",
@@ -240,7 +304,6 @@
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/sso_config.xml",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/springHandler-servlet.xml",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/sso-controller.xml",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/application.xml",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/cms_log_config.xml",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/cms_config.xml",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/list.html",
@@ -301,37 +364,7 @@
 				"/J/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/list.html",
 				"/J/2项目开发/实施/monitoring/mt.sh",
 				"/C/Users/rjf/AppData/Local/Temp/Rar$DI71.896/template.xml",
-				"/D/项目/cms/rjcms7.sql",
-				"/J/workspace/markup-validator/htdocs/config/validator.conf",
-				"/J/workspace/markup-validator/httpd/conf/httpd.conf",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/nginx.conf",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/config.inc.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/config.inc 2.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/index 2.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/mainPage.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/navBar.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/frmWorkArea.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/custom_config.inc.php.example",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/staticPage.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/const.inc.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/common.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/login.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/httpd-vhosts.conf",
-				"/K/nodejs/webapps/drag/development-bundle/grunt.js",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/httpd-xampp.conf",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/httpd.conf",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/index.php",
-				"/K/linux/nginx.conf",
-				"/K/linux/nginx-esb.conf",
-				"/J/tools/hibernate-3.1/build.xml",
-				"/J/apache-tomcat-6.0.32/webapps/cms/res_root/fjmh/templates/00000383/about.jsp",
-				"/J/apache-tomcat-6.0.32/webapps/cms/fpd/global.inc.jsp",
-				"/I/cms/前端定制/模板/mobile_ui_0114/m/modify-0111.css",
-				"/J/apache-tomcat-6.0.32/bin/startup_jprofiler.bat",
-				"/J/apache-tomcat-6.0.32/bin/catalina.bat",
-				"/J/apache-tomcat-6.0.32/bin/startup.bat",
-				"/J/apache-tomcat-6.0.32/bin/startup.sh",
-				"/I/cms/前端定制/模板/mobile_ui_0114/00/style/_notes/dwsync.xml"
+				"/D/项目/cms/rjcms7.sql"
 			],
 			"find":
 			{
@@ -349,6 +382,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"i",
+					"tab-pane",
+					"nav-tabs",
+					"wd",
+					"();\n",
+					"datasource",
+					"datasour",
+					"com.rongji.cms.persistence.CmsCatalogRelation",
 					"\\\\",
 					"\\",
 					"xxx",
@@ -468,18 +509,10 @@
 					"    </testsuite>",
 					"    <testsuite name=\"(.*?)\" time=\"(.*?)\">",
 					"      <testcase name=\"(.*?)\" classname=\"com.rongji.test.remains.RemainsTest\" time=\"(.*?)\"/>",
-					",\n",
-					"api.htm",
-					"About this Documentation Node.js v0.8.16 Manual & Documentation.htm",
-					"About this Documentation Node.js v0.8.16 Manual & Documentation_files",
-					"http://nodejs.org/api/all.html#",
-					"断点续传（暂不支持）",
-					"ctrl+shift+d",
-					"format",
-					";\n"
+					",\n"
 				],
 				"highlight": true,
-				"in_selection": true,
+				"in_selection": false,
 				"preserve_case": false,
 				"regex": true,
 				"replace_history":
@@ -627,48 +660,145 @@
 				"selected_items":
 				[
 					[
-						"t",
-						"tt"
+						"p",
+						"panes"
 					],
 					[
 						"a",
-						"Afe"
+						"active"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"DI",
+						"div	Tag"
+					],
+					[
+						"get",
+						"getWd"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"s",
+						"style"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"t",
+						"tt"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"contents": "未修改\n循环输出\n源码预览结果\n\nrongji591 问题查看\n\n\n闽侯\n1、列表页include 多出cms:list\n2、循环输出loop标签错误（390模板套）",
+					"contents": "未修改\n循环输出\n源码预览结果\n\nrongji591 问题查看\n\n\n闽侯\n1、列表页include 多出cms:list\n2、循环输出loop标签错误（390模板套）\n\n\n\n202 \nhttp://192.168.14.202/cms/fpd.jsp?tempId=00005090 显示条数不完整",
 					"settings":
 					{
-						"buffer_size": 83,
+						"buffer_size": 149,
 						"line_ending": "Windows",
 						"name": "未修改"
 					}
 				},
 				{
-					"contents": "前端定制二次开发（实施方向）\n 1、扩展类型添加培训（主讲）\n 2、最近这段时间添加的新功能介绍\n 3、焦点图添加培训（...）\n 4、常用操作过程培训\n\n安装部署",
+					"contents": "jvm问题排查\n\n1、内存溢出\n2、线程上限\n3、栈移出\n4、jar包源码调试\n5、eclipse远程调试\n\n\n工具介绍\njvisualvm\nMemoryAnalyzer\nputty\nfilezilla\nchrome debugger （ie）\n远程连接\ngithub",
 					"settings":
 					{
-						"buffer_size": 82,
+						"buffer_size": 134,
 						"line_ending": "Windows",
-						"name": "前端定制二次开发（实施方向）"
+						"name": "jvm问题排查"
 					}
 				},
 				{
-					"file": "/D/workspace/RJ-CMS7/WebRoot/WEB-INF/applicationContext.xml",
+					"file": "/C/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
 					"settings":
 					{
-						"buffer_size": 74026,
+						"buffer_size": 1285,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Program Files/Sublime Text 2/Data/.gitignore",
+					"settings":
+					{
+						"buffer_size": 6,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/workspace/RJ-CMS7/WebRoot/WEB-INF/config/cms_config.xml",
+					"contents": "		c	\"﻿<!DOCTYPE html PUBLIC \\\"-//W3C//DTD XHTML 1.0 Transitional//EN\\\" \\\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\\\">\\n<html xmlns=\\\"http://www.w3.org/1999/xhtml\\\">\\n<head>\\n<title>两会专题_闽侯县政府门户网站</title>\\n<meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" />\\n<meta http-equiv=\\\"Content-Language\\\" content=\\\"zh-cn\\\" />\\n<!--HTML页面统一使用uft-8编码格式-->\\n<meta http-equiv=\\\"Content-Type\\\" content=\\\"application/xhtml+xml; charset=UTF-8\\\" />\\n<meta name=\\\"keywords\\\" content=\\\" \\\" />\\n<meta name=\\\"description\\\" content=\\\"\\\" />\\n<!--\\n    文件配置规范:\\n    一、css文件，统一存放在style文件夹里；\\n    二、js文件，统一存放在javascript文件夹里；\\n    三、flash文件，统一存放在flash文件夹里；\\n    四、图片文件，统一存放在images文件夹里；\\n    五、源文件psd等，统一存放在source文件夹里;\\n    六、模板配置文件命名template.xml，模板预览大图命名preview.jpg，模板预览小图命名preview_s.jpg;\\n    七、将以上文件统一以zip的格式打包，并存放于根目录中。\\n-->\\n<link href=\\\"style/layout.css\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\n<link href=\\\"style/liagnhui_master.css\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\n<link href=\\\"style/lianghui_index.css\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\n<!--tab切换调用的JS函数文件tab.exam.js；-->\\n<script src=\\\"javascript/tab.exam.js\\\" type=\\\"text/javascript\\\"></script>\\n<script src=\\\"javascript/main.js\\\" type=\\\"text/javascript\\\"></script>\\n<script src=\\\"javascript/swfobject.js\\\" type=\\\"text/javascript\\\"></script>\\n</head>\\n<body>\\n<!--布局规范layout（必写项；所有框架模块的外框；可设置网页背景样式；宽度为100%）-->\\n<div id=\\\"layout\\\" class=\\\"layout\\\">\\n\\t<!--特殊布局layout_自定义标识（非必写项；辅助设置网页背景样式等，如：网页头部背景、网页底部背景、网页整体背景等；宽度为100%）-->\\n\\t<div class=\\\"wrapper\\\" id=\\\"layout_wrapper\\\">\\n    \\t<!--普通框架frame_自定义标识（必写项；中间主体部分；保证ID的唯一性；框架里不能放id=layout_自定义标识的布局层）-->\\n\\t\\t<div class=\\\"main\\\" id=\\\"frame_main\\\">\\n            <!--\\n                主体部分框架搭建注意事项：\\n                一、数据块和模块外框不能与框架frame同级，从外到内框架布局ID依此为：布局规范（layout） > 特殊布局（layout_自定义标识） > 普通框架（frame_自定义标识） > 数据块（data_自定义标识）/模块（mod_自定义标识）；\\n                二、只有需要横向左右浮动的框架可以添加浮动float样式；\\n                三、需要浮动的框架的外层添加清除浮动的样式名clearfix；\\n                四、框架的横向和纵向排列要严格区分，左右栏外框要添加；\\n                五、每个框架、模块及数据块的ID名，必须保证唯一性\\n                六、不加ID的模块样式名为系统指定样式名，有各自的作用，不可写错，如modhead,modtitle,modmore,modcon,tab,tabtitle,tabmore等等\\n            -->            \\n        \\t<!--公共内容框架include（非必写项；调用公共页include文件名以便统一维护公共部分，并保证与公共页include被调用部分DIV的ID名保持一致）-->\\n            <!--公共头部工具条部分-->\\n\\t\\t\\t<div class=\\\"tool clearfix\\\" id=\\\"frame_tool\\\" include=\\\"include.html\\\">\\n            \\t<!--数据块风格规范data_自定义标识（独立数据块调用，保证ID的唯一性）-->\\n\\t\\t\\t\\t<div class=\\\"home\\\" id=\\\"data_main_site\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">闽侯县政府门户网</a></div>\\n\\t\\t\\t\\t<div class=\\\"maininfo\\\" id=\\\"data_maininfo\\\">·<a href=\\\"#\\\" target=\\\"_blank\\\">个性化门户</a>·<a href=\\\"#\\\" target=\\\"_blank\\\">RSS订阅</a>·<a href=\\\"#\\\" target=\\\"_blank\\\">手机版</a>·<a href=\\\"#\\\" target=\\\"_blank\\\">使用帮助</a> </div>\\n\\t\\t\\t</div>\\n            <!--公共头部部分-->\\n\\t\\t\\t<div id=\\\"frame_top\\\" include=\\\"include.html\\\">\\n\\t\\t\\t\\t<div id=\\\"frame_top_banner\\\" class=\\\"top_banner\\\">\\n\\t\\t\\t\\t\\t<!--页面中有提供背景图片替换的地方，需要设置源文件下载download=\\\"source/自定义标识.psd\\\" 以及新图片上传upload=\\\"路径名/图片文件名\\\" ，属性\\\"download\\\"\\\"upload\\\"为成对出现-->\\n\\t\\t\\t\\t\\t<!--数据模板标识func:头部banner-->\\n\\t\\t\\t\\t\\t<div id=\\\"data_top_banner\\\" download=\\\"source/top.psd\\\" upload=\\\"images/top.jpg\\\" func=\\\"banner\\\"><img src=\\\"images/top.jpg\\\" /></div>\\n\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t<div id=\\\"frame_top_menu\\\" class=\\\"top_menu clearfix\\\">\\n\\t\\t\\t\\t\\t<div id=\\\"data_nav\\\" class=\\\"nav\\\">\\n\\t\\t\\t\\t\\t\\t<ul>\\n\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\">首页</a></li>\\n\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\">两会进行时</a></li>\\n\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\">会议文件</a></li>\\n\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\">人大会议</a></li>\\n\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\">政协会议</a></li>\\n\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\">建议献策</a></li>\\n\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t</div>\\n\\t\\t\\t</div>\\n\\t\\t\\t<!--页面正文-->\\n\\t\\t\\t<div class=\\\"c_row_warp clearfix\\\" id=\\\"frame_c_row\\\">\\n\\t\\t\\t\\t<div class=\\\"channel_wrap clearfix\\\" id=\\\"frame_channel_wrap\\\">\\n\\t\\t\\t\\t\\t<div class=\\\"c_l\\\" id=\\\"frame_c_l\\\">\\n\\t\\t\\t\\t\\t\\t<!--数据模板标识func:幻灯片ppt-->\\n\\t\\t\\t\\t\\t\\t<div id=\\\"data_c_flash\\\" class=\\\"c_flash clearfix\\\" func=\\\"ppt\\\">\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"flash\\\" id=\\\"Focus_pic\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"dplayer4\\\" style=\\\"padding-right:0px;padding-left:0px;padding-bottom:0px;margin:0px auto;width:300px;padding-top:0px;height:225px;\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<object codebase=\\\"http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0\\\" height=\\\"225\\\" width=\\\"300\\\" classid=\\\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<param value=\\\"flash/focusv1.0.1.swf\\\" name=\\\"movie\\\" />\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<param value=\\\"Transparent\\\" name=\\\"wmode\\\" />\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<param value=\\\"high\\\" name=\\\"quality\\\" />\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<param value=\\\"true\\\" name=\\\"allowFullScreen\\\" />\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<param value=\\\"always\\\" name=\\\"allowScriptAccess\\\" />\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</object>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"swfUsefulObj\\\" style=\\\"display:none\\\"></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<script language=\\\"javascript\\\" type=\\\"text/javascript\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar vos = [\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t{ image : \\\"images/01.gif\\\", icon : \\\"\\\", title : \\\"福州市青口投资区\\\", link : \\\"http://www.rongji.com/\\\", desc : \\\"\\\" },\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t{ image : \\\"images/02.gif\\\", icon : \\\"\\\", title : \\\"南通物流园\\\", link : \\\"http://www.rongji.com/\\\", desc : \\\"\\\" },\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t{ image : \\\"images/03.gif\\\", icon : \\\"\\\", title : \\\"福州（南屿）生物医药和机电产业园\\\", link : \\\"http://www.rongji.com/\\\", desc : \\\"\\\" },\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t{ image : \\\"images/04.gif\\\", icon : \\\"\\\", title : \\\"海西高新技术产业园\\\", link : \\\"http://www.rongji.com/\\\", desc : \\\"\\\" }\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t];\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t/* 本段js作用动态生成flash所需格式的数据，原始数据格式如vos。如有所需格式不一致，请重写本方法。 */\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tfunction gethtml(id){\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tvar htm = '';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tif(vos.length > 0){\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm = '<p>';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tfor(var i in vos){\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm += vos[i].title;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tif(i != vos.length-1){ htm += '|'; }\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm += '</p><p>';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tfor(var j in vos){\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm += vos[j].image;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tif(j != vos.length-1){ htm += '|'; }\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm += '</p><p>';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tfor(var f in vos){\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm += vos[f].link;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tif(f != vos.length-1){ htm += '|'; }\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm += '</p>';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tdocument.getElementById(id).innerHTML=htm;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\treturn htm;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tgethtml(\\\"swfUsefulObj\\\");\\n\\t\\t\\t\\t\\t\\t\\t\\t</script>\\n\\t\\t\\t\\t\\t\\t\\t\\t<script language=\\\"javascript\\\" type=\\\"text/javascript\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar titles ='';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar imgs ='';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar urls  ='';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar domianUrl = \\\"\\\";\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar pw = 300; \\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar ph = 225;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar Times = 4000; \\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar sizes = 14;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar isbold=\\\"yes\\\";\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar txtcolor =0xFFFFFF;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar txtLeft = 4;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar umcolor = 0xFFFFFF;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar nubtouming = 100;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar hovertouming = 100;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar btnbg =0xdb2300;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar bgnub = 0x666666;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar hovercolor =0xFFFFFF;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar rname=\\\"\\\";\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar rlink=\\\"\\\";\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tfocusHandler.initSystems(\\\"dplayer4\\\");\\n\\t\\t\\t\\t\\t\\t\\t\\t</script> \\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\\n                        <!--\\n                            模块样式定义规范：\\n                            一、系统风格模块库，可入系统模块风格库，整个系统内的项目都共用，模块ID命名:sys_mod_变量名；\\n                            二、同项目（模板包）风格模块，可入当前项目（模块包）模块风格库，当前项目（模块包）都共用，模块ID命名:custom_mod_变量名；\\n                            三、独立设计的模块风格，不可入库，模块ID命名:mod_变量名\\n                        -->\\n                        <!--此模块为tab菜单宽度可自动延伸的子栏目切换模块-->\\n\\t\\t\\t\\t\\t\\t<div class=\\\"d_l_box clearfix\\\" id=\\\"mod_d_l_box_1\\\">\\n                        \\t<!--模块栏目切换栏外框样式名tab；不需要ID，系统可自动识别；用clearfix清除浮动-->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tab clearfix\\\">\\n                            \\t<!--模块主栏目切换栏目标题样式名tabtitle；不需要ID，系统可自动识别；向左浮动-->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tabtitle\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">会议议程</a></div>\\n                                <!--模块子栏目切换外框ul；定义ID以便设置JS切换效果；向右浮动-->\\n\\t\\t\\t\\t\\t\\t\\t\\t<ul class=\\\"clearfix\\\" id=\\\"meating\\\">\\n                                \\t<!--当前显示tab块；不需要ID，系统可自动识别；用定义样式名当前子栏目样式，以便设置JS切换效果-->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<li class=\\\"on\\\">\\n                                    \\t<!--当前tab块；不需要ID，系统可自动识别；菜单左边背景样式-->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tl\\\">\\n                                    \\t\\t<!--当前tab块；不需要ID，系统可自动识别；菜单右边样式-->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tr\\\">\\n                                    \\t\\t\\t<!--当前tab块；不需要ID，系统可自动识别；菜单中间背景平铺-->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tc\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">人大</a></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</li>\\n                                    <!--非当前显示tab块；不需要ID，系统可自动识别-->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tl\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tr\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tc\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">政协</a></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</li>\\n\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n                            <!--模块栏目tab块内容modcon；不需要ID，系统可自动识-->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modcon\\\">\\n                            \\t<!--\\n                                    当前显示tab块内容；\\n                                    定义数据块id（data_自定义标识+从1开始的整数字），以便设置JS切换效果;\\n                                    也可以外部再套一层DIV定义独立ID名（自定义标识+从1开始的整数字）做为调用JS切换效果，里面定义数据块（data_自定义标识），这两种方式二选一；\\n                                    设置当前样式为显示状态（style=\\\"display:block;\\\"）或者放空\\n                                -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_meating_con_1\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"info_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"7\\\"><span field=\\\"date\\\" format=\\\"[MM-dd]\\\">[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length=\\\"40\\\">1苏树林、梁绮萍等省领导谈会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">苏树林、梁绮萍等省领导视察\\\"...</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">叶双瑜副省长会见台湾中华东...</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽顺利..</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽顺利..</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n                                <!--非当前tab块内容；续上面定义id方式，数字加1；设置当前样式为隐藏状态（style=\\\"display:none;\\\"）-->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_meating_con_2\\\" style=\\\"display:none;\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"info_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"7\\\"><span field=\\\"date\\\" format=\\\"[MM-dd]\\\">[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length=\\\"40\\\">苏树林、梁绮萍等省领导谈会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">2苏树林、梁绮萍等省领导视察\\\"...</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">叶双瑜副省长会见台湾中华东...</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽顺利..</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽顺利..</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\\n                        <!--此模块为单独栏目模块-->\\n\\t\\t\\t\\t\\t\\t<div class=\\\"d_l_box clearfix\\\" id=\\\"mod_d_l_box_2\\\">\\n                        \\t<!--模块栏目外框样式名modhead；不需要ID，系统可自动识别；用clearfix清除浮动-->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modhead clearfix\\\">\\n                            \\t<!--模块栏目标题样式名modtitle；不需要ID，系统可自动识别；向左浮动-->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modtitle\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">会议视频</a></div>\\n                                <!--模块栏目更多链接样式名modmore；不需要ID，系统可自动识别；向右浮动-->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modmore\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">更多>></a></div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n                            <!--此模块内容modcon-->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modcon\\\">\\n                            \\t<!--定义当前栏目内容块data_自定义标识-->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_info_list_p_l_box\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"photo_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul class=\\\"clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"2\\\"><a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length =\\\"18\\\"><img src=\\\"images/about_74.gif\\\" />海峡汽车文化广场</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\" target=\\\"_blank\\\"><img src=\\\"images/about_74.gif\\\" />海峡汽车文化广场</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t<div class=\\\"c_r\\\" id=\\\"frame_c_r\\\">\\n\\t\\t\\t\\t\\t\\t<div class=\\\"n_r_box\\\" id=\\\"mod_n_r_box_1\\\">\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modhead clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modtitle\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">两会进行时</a></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modmore\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">更多>></a></div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modcon clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_v_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"info_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<!--\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t一、设置为标题类型field：text为标题，length为截取字符数，data为日期，format为日期格式;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t二、设置循环读取列表loop：设置属性 loop=\\\"1\\\" 注意这个参数只加在第一个需要被循环的元素上;from为从第几条开始，to为第几条结束\\n\\t\\t\\t\\t\\t\\t三、注意以上的标签只在动态数据的地址添加即可\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t-->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"7\\\"><span field=\\\"date\\\" format=\\\"[MM-dd]\\\">[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length =\\\"70\\\">苏树林、梁绮萍等省领导视察\\\"投资福建\\\"信息产业对口洽谈会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">叶双瑜副省长会见台湾中华电信张晓东总经理一行</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽谈会顺利召开</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">五大信息产品制造业优势项目签约投洽会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">闽台物联网合作再添新手笔</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">美亚柏科与美国ATTO开展国际合作 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t<div class=\\\"n_r_box\\\" id=\\\"mod_n_r_box_2\\\">\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tab\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<ul class=\\\"clearfix\\\" id=\\\"wen\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<li class=\\\"on\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tl\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tr\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tc\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">会议文件</a></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tl\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tr\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tc\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">建言献策</a></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</li>\\n\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tabmore\\\"></div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modcon clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_wen_con_1\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"info_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"6\\\"><span field=\\\"date\\\" format=\\\"[MM-dd]\\\">[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length =\\\"70\\\">苏树林、梁绮萍等省领导视察\\\"投资福建\\\"信息产业对口洽谈会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">叶双瑜副省长会见台湾中华电信张晓东总经理一行</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽谈会顺利召开</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">五大信息产品制造业优势项目签约投洽会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span><a href=\\\"#\\\" target=\\\"_blank\\\">更多>></a></span>·<a href=\\\"#\\\" target=\\\"_blank\\\">美亚柏科与美国ATTO开展国际合作 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_wen_con_2\\\" style=\\\"display:none;\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"info_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"6\\\"><span field=\\\"date\\\" format=\\\"[MM-dd]\\\">[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length =\\\"70\\\">苏树林、梁绮萍等省领导视察\\\"投资福建\\\"信息产业对口洽谈会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">叶双瑜副省长会见台湾中华电信张晓东总经理一行</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽谈会顺利召开</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">五大信息产品制造业优势项目签约投洽会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span><a href=\\\"#\\\" target=\\\"_blank\\\">更多>></a></span>·<a href=\\\"#\\\" target=\\\"_blank\\\">美亚柏科与美国ATTO开展国际合作 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t<div class=\\\"n_r_box\\\" id=\\\"mod_n_r_box_3\\\">\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modhead clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modtitle\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">会议现场</a></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modmore\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">更多>></a></div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modcon clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_photo_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"photo_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul class=\\\"clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"4\\\"><a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length =\\\"18\\\"><img src=\\\"images/about_74.gif\\\" />海峡汽车文化广场</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\" target=\\\"_blank\\\"><img src=\\\"images/about_74.gif\\\" />海峡汽车文化广场</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\" target=\\\"_blank\\\"><img src=\\\"images/about_74.gif\\\" />海峡汽车文化广场</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\" target=\\\"_blank\\\"><img src=\\\"images/about_74.gif\\\" />海峡汽车文化广场</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t</div>\\n            \\t<!--公共底部部分-->\\n\\t\\t\\t\\t<div class=\\\"bottom clearfix\\\" id=\\\"frame_bottom\\\" include=\\\"include.html\\\">\\n\\t\\t\\t\\t\\t<div class=\\\"btm_nav\\\" id=\\\"data_btm_nav\\\"> <a href=\\\"#\\\" target=\\\"_blank\\\">联系我们</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">使用帮助</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">设为首页</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">加入收藏</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">RSS订阅服务</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">网站地图</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">网站建议</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">网站统计</a> </div>\\n\\t\\t\\t\\t\\t<div class=\\\"btm_info clearfix\\\" id=\\\"data_btm_info\\\">\\n\\t\\t\\t\\t\\t\\t<div class=\\\"text\\\"> 版权所有 Copyright &copy; 2004-2011 闽侯县人民政府办公室<br />\\n\\t\\t\\t\\t\\t\\t\\t技术支持：闽侯县数字闽侯建设办公室<br />\\n\\t\\t\\t\\t\\t\\t\\t联系电话：0591-22982257/22068837/22982529<br />\\n\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t</div>\\n\\t\\t\\t</div>\\n\\t\\t</div>\\n\\t</div>\\n</div>\\n<!--\\n    tab切换调用的JS；\\n    每个切换效果加载一个o_tab().init函数；\\n    函数参数分别为：子栏目菜单ID名，子栏目框架html标签，子栏目内容自定义标识，当前显示内容样式名，非当前显示内容样式名，设置的子栏目ID整数的开始数（填0就从0开始，填1就从1开始，），是否鼠标滑动菜单切换（非空为是，空为否）\\n-->\\n<script type=\\\"text/javascript\\\">\\n\\tnew o_tab().init( \\\"wen\\\",\\\"li\\\",\\\"data_wen_con_\\\",\\\"on\\\",\\\"\\\",1,\\\"1\\\" );\\n\\tnew o_tab().init( \\\"meating\\\",\\\"li\\\",\\\"data_meating_con_\\\",\\\"on\\\",\\\"\\\",1,\\\"1\\\" );\\n</script>\\n</body>\\n</html>\"	String",
 					"settings":
 					{
-						"buffer_size": 15544,
+						"buffer_size": 20604,
+						"line_ending": "Windows",
+						"name": "c	\"﻿<!DOCTYPE html PUBLIC \\\"-//W3C//DTD XHTML 1."
+					}
+				},
+				{
+					"contents": "		c	\"﻿<!DOCTYPE html PUBLIC \\\"-//W3C//DTD XHTML 1.0 Transitional//EN\\\" \\\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\\\">\\n<html xmlns=\\\"http://www.w3.org/1999/xhtml\\\">\\n<head>\\n<title>两会专题_闽侯县政府门户网站</title>\\n<meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" />\\n<meta http-equiv=\\\"Content-Language\\\" content=\\\"zh-cn\\\" />\\n<!--HTML页面统一使用uft-8编码格式-->\\n<meta http-equiv=\\\"Content-Type\\\" content=\\\"application/xhtml+xml; charset=UTF-8\\\" />\\n<meta name=\\\"keywords\\\" content=\\\" \\\" />\\n<meta name=\\\"description\\\" content=\\\"\\\" />\\n<!--\\n    文件配置规范:\\n    一、css文件，统一存放在style文件夹里；\\n    二、js文件，统一存放在javascript文件夹里；\\n    三、flash文件，统一存放在flash文件夹里；\\n    四、图片文件，统一存放在images文件夹里；\\n    五、源文件psd等，统一存放在source文件夹里;\\n    六、模板配置文件命名template.xml，模板预览大图命名preview.jpg，模板预览小图命名preview_s.jpg;\\n    七、将以上文件统一以zip的格式打包，并存放于根目录中。\\n-->\\n<link href=\\\"/cms/res_root/cszd/templates/00001339/style/layout.css\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\n<link href=\\\"/cms/res_root/cszd/templates/00001339/style/liagnhui_master.css\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\n<link href=\\\"/cms/res_root/cszd/templates/00001339/style/lianghui_index.css\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\n<!--tab切换调用的JS函数文件tab.exam.js；-->\\n<script src=\\\"/cms/res_root/cszd/templates/00001339/javascript/tab.exam.js\\\" type=\\\"text/javascript\\\"></script>\\n<script src=\\\"/cms/res_root/cszd/templates/00001339/javascript/main.js\\\" type=\\\"text/javascript\\\"></script>\\n<script src=\\\"/cms/res_root/cszd/templates/00001339/javascript/swfobject.js\\\" type=\\\"text/javascript\\\"></script>\\n</head>\\n<body>\\n<!--布局规范layout（必写项；所有框架模块的外框；可设置网页背景样式；宽度为100%）-->\\n<div id=\\\"layout\\\" class=\\\"layout\\\">\\n\\t<!--特殊布局layout_自定义标识（非必写项；辅助设置网页背景样式等，如：网页头部背景、网页底部背景、网页整体背景等；宽度为100%）-->\\n\\t<div class=\\\"wrapper\\\" id=\\\"layout_wrapper\\\">\\n    \\t<!--普通框架frame_自定义标识（必写项；中间主体部分；保证ID的唯一性；框架里不能放id=layout_自定义标识的布局层）-->\\n\\t\\t<div class=\\\"main\\\" id=\\\"frame_main\\\">\\n            <!--\\n                主体部分框架搭建注意事项：\\n                一、数据块和模块外框不能与框架frame同级，从外到内框架布局ID依此为：布局规范（layout） > 特殊布局（layout_自定义标识） > 普通框架（frame_自定义标识） > 数据块（data_自定义标识）/模块（mod_自定义标识）；\\n                二、只有需要横向左右浮动的框架可以添加浮动float样式；\\n                三、需要浮动的框架的外层添加清除浮动的样式名clearfix；\\n                四、框架的横向和纵向排列要严格区分，左右栏外框要添加；\\n                五、每个框架、模块及数据块的ID名，必须保证唯一性\\n                六、不加ID的模块样式名为系统指定样式名，有各自的作用，不可写错，如modhead,modtitle,modmore,modcon,tab,tabtitle,tabmore等等\\n            -->            \\n        \\t<!--公共内容框架include（非必写项；调用公共页include文件名以便统一维护公共部分，并保证与公共页include被调用部分DIV的ID名保持一致）-->\\n            <!--公共头部工具条部分-->\\n\\t\\t\\t<div class=\\\"tool clearfix\\\" id=\\\"frame_tool\\\" include=\\\"include.html\\\">\\n            \\t<!--数据块风格规范data_自定义标识（独立数据块调用，保证ID的唯一性）-->\\n\\t\\t\\t\\t<div class=\\\"home\\\" id=\\\"data_main_site\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">闽侯县政府门户网</a></div>\\n\\t\\t\\t\\t<div class=\\\"maininfo\\\" id=\\\"data_maininfo\\\">·<a href=\\\"#\\\" target=\\\"_blank\\\">个性化门户</a>·<a href=\\\"#\\\" target=\\\"_blank\\\">RSS订阅</a>·<a href=\\\"#\\\" target=\\\"_blank\\\">手机版</a>·<a href=\\\"#\\\" target=\\\"_blank\\\">使用帮助</a> </div>\\n\\t\\t\\t</div>\\n            <!--公共头部部分-->\\n\\t\\t\\t<div id=\\\"frame_top\\\" include=\\\"include.html\\\">\\n\\t\\t\\t\\t<div id=\\\"frame_top_banner\\\" class=\\\"top_banner\\\">\\n\\t\\t\\t\\t\\t<!--页面中有提供背景图片替换的地方，需要设置源文件下载download=\\\"source/自定义标识.psd\\\" 以及新图片上传upload=\\\"路径名/图片文件名\\\" ，属性\\\"download\\\"\\\"upload\\\"为成对出现-->\\n\\t\\t\\t\\t\\t<!--数据模板标识func:头部banner-->\\n\\t\\t\\t\\t\\t<div id=\\\"data_top_banner\\\" download=\\\"source/top.psd\\\" upload=\\\"images/top.jpg\\\" func=\\\"banner\\\"><img src=\\\"/cms/res_root/cszd/templates/00001339/images/top.jpg\\\" /></div>\\n\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t<div id=\\\"frame_top_menu\\\" class=\\\"top_menu clearfix\\\">\\n\\t\\t\\t\\t\\t<div id=\\\"data_nav\\\" class=\\\"nav\\\">\\n\\t\\t\\t\\t\\t\\t<ul>\\n\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\">首页</a></li>\\n\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\">两会进行时</a></li>\\n\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\">会议文件</a></li>\\n\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\">人大会议</a></li>\\n\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\">政协会议</a></li>\\n\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\">建议献策</a></li>\\n\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t</div>\\n\\t\\t\\t</div>\\n\\t\\t\\t<!--页面正文-->\\n\\t\\t\\t<div class=\\\"c_row_warp clearfix\\\" id=\\\"frame_c_row\\\">\\n\\t\\t\\t\\t<div class=\\\"channel_wrap clearfix\\\" id=\\\"frame_channel_wrap\\\">\\n\\t\\t\\t\\t\\t<div class=\\\"c_l\\\" id=\\\"frame_c_l\\\">\\n\\t\\t\\t\\t\\t\\t<!--数据模板标识func:幻灯片ppt-->\\n\\t\\t\\t\\t\\t\\t<div id=\\\"data_c_flash\\\" class=\\\"c_flash clearfix\\\" func=\\\"ppt\\\">\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"flash\\\" id=\\\"Focus_pic\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"dplayer4\\\" style=\\\"padding-right:0px;padding-left:0px;padding-bottom:0px;margin:0px auto;width:300px;padding-top:0px;height:225px;\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<object codebase=\\\"http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0\\\" height=\\\"225\\\" width=\\\"300\\\" classid=\\\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<param value=\\\"flash/focusv1.0.1.swf\\\" name=\\\"movie\\\" />\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<param value=\\\"Transparent\\\" name=\\\"wmode\\\" />\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<param value=\\\"high\\\" name=\\\"quality\\\" />\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<param value=\\\"true\\\" name=\\\"allowFullScreen\\\" />\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<param value=\\\"always\\\" name=\\\"allowScriptAccess\\\" />\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</object>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"swfUsefulObj\\\" style=\\\"display:none\\\"></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<script language=\\\"javascript\\\" type=\\\"text/javascript\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar vos = [\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t{ image : \\\"images/01.gif\\\", icon : \\\"\\\", title : \\\"福州市青口投资区\\\", link : \\\"http://www.rongji.com/\\\", desc : \\\"\\\" },\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t{ image : \\\"images/02.gif\\\", icon : \\\"\\\", title : \\\"南通物流园\\\", link : \\\"http://www.rongji.com/\\\", desc : \\\"\\\" },\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t{ image : \\\"images/03.gif\\\", icon : \\\"\\\", title : \\\"福州（南屿）生物医药和机电产业园\\\", link : \\\"http://www.rongji.com/\\\", desc : \\\"\\\" },\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t{ image : \\\"images/04.gif\\\", icon : \\\"\\\", title : \\\"海西高新技术产业园\\\", link : \\\"http://www.rongji.com/\\\", desc : \\\"\\\" }\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t];\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t/* 本段js作用动态生成flash所需格式的数据，原始数据格式如vos。如有所需格式不一致，请重写本方法。 */\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tfunction gethtml(id){\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tvar htm = '';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tif(vos.length > 0){\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm = '<p>';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tfor(var i in vos){\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm += vos[i].title;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tif(i != vos.length-1){ htm += '|'; }\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm += '</p><p>';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tfor(var j in vos){\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm += vos[j].image;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tif(j != vos.length-1){ htm += '|'; }\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm += '</p><p>';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tfor(var f in vos){\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm += vos[f].link;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tif(f != vos.length-1){ htm += '|'; }\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\thtm += '</p>';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tdocument.getElementById(id).innerHTML=htm;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\treturn htm;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tgethtml(\\\"swfUsefulObj\\\");\\n\\t\\t\\t\\t\\t\\t\\t\\t</script>\\n\\t\\t\\t\\t\\t\\t\\t\\t<script language=\\\"javascript\\\" type=\\\"text/javascript\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar titles ='';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar imgs ='';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar urls  ='';\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar domianUrl = \\\"\\\";\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar pw = 300; \\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar ph = 225;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar Times = 4000; \\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar sizes = 14;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar isbold=\\\"yes\\\";\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar txtcolor =0xFFFFFF;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar txtLeft = 4;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar umcolor = 0xFFFFFF;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar nubtouming = 100;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar hovertouming = 100;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar btnbg =0xdb2300;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar bgnub = 0x666666;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar hovercolor =0xFFFFFF;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar rname=\\\"\\\";\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tvar rlink=\\\"\\\";\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tfocusHandler.initSystems(\\\"dplayer4\\\");\\n\\t\\t\\t\\t\\t\\t\\t\\t</script> \\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\\n                        <!--\\n                            模块样式定义规范：\\n                            一、系统风格模块库，可入系统模块风格库，整个系统内的项目都共用，模块ID命名:sys_mod_变量名；\\n                            二、同项目（模板包）风格模块，可入当前项目（模块包）模块风格库，当前项目（模块包）都共用，模块ID命名:custom_mod_变量名；\\n                            三、独立设计的模块风格，不可入库，模块ID命名:mod_变量名\\n                        -->\\n                        <!--此模块为tab菜单宽度可自动延伸的子栏目切换模块-->\\n\\t\\t\\t\\t\\t\\t<div class=\\\"d_l_box clearfix\\\" id=\\\"mod_d_l_box_1\\\">\\n                        \\t<!--模块栏目切换栏外框样式名tab；不需要ID，系统可自动识别；用clearfix清除浮动-->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tab clearfix\\\">\\n                            \\t<!--模块主栏目切换栏目标题样式名tabtitle；不需要ID，系统可自动识别；向左浮动-->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tabtitle\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">会议议程</a></div>\\n                                <!--模块子栏目切换外框ul；定义ID以便设置JS切换效果；向右浮动-->\\n\\t\\t\\t\\t\\t\\t\\t\\t<ul class=\\\"clearfix\\\" id=\\\"meating\\\">\\n                                \\t<!--当前显示tab块；不需要ID，系统可自动识别；用定义样式名当前子栏目样式，以便设置JS切换效果-->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<li class=\\\"on\\\">\\n                                    \\t<!--当前tab块；不需要ID，系统可自动识别；菜单左边背景样式-->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tl\\\">\\n                                    \\t\\t<!--当前tab块；不需要ID，系统可自动识别；菜单右边样式-->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tr\\\">\\n                                    \\t\\t\\t<!--当前tab块；不需要ID，系统可自动识别；菜单中间背景平铺-->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tc\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">人大</a></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</li>\\n                                    <!--非当前显示tab块；不需要ID，系统可自动识别-->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tl\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tr\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tc\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">政协</a></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</li>\\n\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n                            <!--模块栏目tab块内容modcon；不需要ID，系统可自动识-->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modcon\\\">\\n                            \\t<!--\\n                                    当前显示tab块内容；\\n                                    定义数据块id（data_自定义标识+从1开始的整数字），以便设置JS切换效果;\\n                                    也可以外部再套一层DIV定义独立ID名（自定义标识+从1开始的整数字）做为调用JS切换效果，里面定义数据块（data_自定义标识），这两种方式二选一；\\n                                    设置当前样式为显示状态（style=\\\"display:block;\\\"）或者放空\\n                                -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_meating_con_1\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"info_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"7\\\"><span field=\\\"date\\\" format=\\\"[MM-dd]\\\">[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length=\\\"40\\\">1苏树林、梁绮萍等省领导谈会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">苏树林、梁绮萍等省领导视察\\\"...</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">叶双瑜副省长会见台湾中华东...</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽顺利..</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽顺利..</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n                                <!--非当前tab块内容；续上面定义id方式，数字加1；设置当前样式为隐藏状态（style=\\\"display:none;\\\"）-->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_meating_con_2\\\" style=\\\"display:none;\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"info_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"7\\\"><span field=\\\"date\\\" format=\\\"[MM-dd]\\\">[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length=\\\"40\\\">苏树林、梁绮萍等省领导谈会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">2苏树林、梁绮萍等省领导视察\\\"...</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">叶双瑜副省长会见台湾中华东...</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽顺利..</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽顺利..</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\\n                        <!--此模块为单独栏目模块-->\\n\\t\\t\\t\\t\\t\\t<div class=\\\"d_l_box clearfix\\\" id=\\\"mod_d_l_box_2\\\">\\n                        \\t<!--模块栏目外框样式名modhead；不需要ID，系统可自动识别；用clearfix清除浮动-->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modhead clearfix\\\">\\n                            \\t<!--模块栏目标题样式名modtitle；不需要ID，系统可自动识别；向左浮动-->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modtitle\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">会议视频</a></div>\\n                                <!--模块栏目更多链接样式名modmore；不需要ID，系统可自动识别；向右浮动-->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modmore\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">更多>></a></div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n                            <!--此模块内容modcon-->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modcon\\\">\\n                            \\t<!--定义当前栏目内容块data_自定义标识-->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_info_list_p_l_box\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"photo_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul class=\\\"clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"2\\\"><a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length =\\\"18\\\"><img src=\\\"/cms/res_root/cszd/templates/00001339/images/about_74.gif\\\" />海峡汽车文化广场</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\" target=\\\"_blank\\\"><img src=\\\"/cms/res_root/cszd/templates/00001339/images/about_74.gif\\\" />海峡汽车文化广场</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t<div class=\\\"c_r\\\" id=\\\"frame_c_r\\\">\\n\\t\\t\\t\\t\\t\\t<div class=\\\"n_r_box\\\" id=\\\"mod_n_r_box_1\\\">\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modhead clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modtitle\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">两会进行时</a></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modmore\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">更多>></a></div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modcon clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_v_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"info_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<!--\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t一、设置为标题类型field：text为标题，length为截取字符数，data为日期，format为日期格式;\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t二、设置循环读取列表loop：设置属性 loop=\\\"1\\\" 注意这个参数只加在第一个需要被循环的元素上;from为从第几条开始，to为第几条结束\\n\\t\\t\\t\\t\\t\\t三、注意以上的标签只在动态数据的地址添加即可\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t-->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"7\\\"><span field=\\\"date\\\" format=\\\"[MM-dd]\\\">[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length =\\\"70\\\">苏树林、梁绮萍等省领导视察\\\"投资福建\\\"信息产业对口洽谈会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">叶双瑜副省长会见台湾中华电信张晓东总经理一行</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽谈会顺利召开</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">五大信息产品制造业优势项目签约投洽会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">闽台物联网合作再添新手笔</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">美亚柏科与美国ATTO开展国际合作 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t<div class=\\\"n_r_box\\\" id=\\\"mod_n_r_box_2\\\">\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tab\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<ul class=\\\"clearfix\\\" id=\\\"wen\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<li class=\\\"on\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tl\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tr\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tc\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">会议文件</a></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tl\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tr\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tc\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">建言献策</a></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</li>\\n\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"tabmore\\\"></div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modcon clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_wen_con_1\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"info_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"6\\\"><span field=\\\"date\\\" format=\\\"[MM-dd]\\\">[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length =\\\"70\\\">苏树林、梁绮萍等省领导视察\\\"投资福建\\\"信息产业对口洽谈会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">叶双瑜副省长会见台湾中华电信张晓东总经理一行</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽谈会顺利召开</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">五大信息产品制造业优势项目签约投洽会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span><a href=\\\"#\\\" target=\\\"_blank\\\">更多>></a></span>·<a href=\\\"#\\\" target=\\\"_blank\\\">美亚柏科与美国ATTO开展国际合作 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_wen_con_2\\\" style=\\\"display:none;\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"info_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"6\\\"><span field=\\\"date\\\" format=\\\"[MM-dd]\\\">[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length =\\\"70\\\">苏树林、梁绮萍等省领导视察\\\"投资福建\\\"信息产业对口洽谈会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">叶双瑜副省长会见台湾中华电信张晓东总经理一行</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">\\\"投资福建\\\"信息产业对口洽谈会顺利召开</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">福建启动海西物联网研究院建设</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span>[09-15]</span>·<a href=\\\"#\\\" target=\\\"_blank\\\">五大信息产品制造业优势项目签约投洽会 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><span><a href=\\\"#\\\" target=\\\"_blank\\\">更多>></a></span>·<a href=\\\"#\\\" target=\\\"_blank\\\">美亚柏科与美国ATTO开展国际合作 </a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t<div class=\\\"n_r_box\\\" id=\\\"mod_n_r_box_3\\\">\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modhead clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modtitle\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">会议现场</a></div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modmore\\\"><a href=\\\"#\\\" target=\\\"_blank\\\">更多>></a></div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"modcon clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div id=\\\"data_photo_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class=\\\"photo_list\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<ul class=\\\"clearfix\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li loop=\\\"1\\\" from=\\\"1\\\" to=\\\"4\\\"><a href=\\\"#\\\" target=\\\"_blank\\\" field=\\\"text\\\" length =\\\"18\\\"><img src=\\\"/cms/res_root/cszd/templates/00001339/images/about_74.gif\\\" />海峡汽车文化广场</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\" target=\\\"_blank\\\"><img src=\\\"/cms/res_root/cszd/templates/00001339/images/about_74.gif\\\" />海峡汽车文化广场</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\" target=\\\"_blank\\\"><img src=\\\"/cms/res_root/cszd/templates/00001339/images/about_74.gif\\\" />海峡汽车文化广场</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<li><a href=\\\"#\\\" target=\\\"_blank\\\"><img src=\\\"/cms/res_root/cszd/templates/00001339/images/about_74.gif\\\" />海峡汽车文化广场</a></li>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t</ul>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t</div>\\n            \\t<!--公共底部部分-->\\n\\t\\t\\t\\t<div class=\\\"bottom clearfix\\\" id=\\\"frame_bottom\\\" include=\\\"include.html\\\">\\n\\t\\t\\t\\t\\t<div class=\\\"btm_nav\\\" id=\\\"data_btm_nav\\\"> <a href=\\\"#\\\" target=\\\"_blank\\\">联系我们</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">使用帮助</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">设为首页</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">加入收藏</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">RSS订阅服务</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">网站地图</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">网站建议</a> | <a href=\\\"#\\\" target=\\\"_blank\\\">网站统计</a> </div>\\n\\t\\t\\t\\t\\t<div class=\\\"btm_info clearfix\\\" id=\\\"data_btm_info\\\">\\n\\t\\t\\t\\t\\t\\t<div class=\\\"text\\\"> 版权所有 Copyright &copy; 2004-2011 闽侯县人民政府办公室<br />\\n\\t\\t\\t\\t\\t\\t\\t技术支持：闽侯县数字闽侯建设办公室<br />\\n\\t\\t\\t\\t\\t\\t\\t联系电话：0591-22982257/22068837/22982529<br />\\n\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t</div>\\n\\t\\t\\t</div>\\n\\t\\t</div>\\n\\t</div>\\n</div>\\n<!--\\n    tab切换调用的JS；\\n    每个切换效果加载一个o_tab().init函数；\\n    函数参数分别为：子栏目菜单ID名，子栏目框架html标签，子栏目内容自定义标识，当前显示内容样式名，非当前显示内容样式名，设置的子栏目ID整数的开始数（填0就从0开始，填1就从1开始，），是否鼠标滑动菜单切换（非空为是，空为否）\\n-->\\n<script type=\\\"text/javascript\\\">\\n\\tnew o_tab().init( \\\"wen\\\",\\\"li\\\",\\\"data_wen_con_\\\",\\\"on\\\",\\\"\\\",1,\\\"1\\\" );\\n\\tnew o_tab().init( \\\"meating\\\",\\\"li\\\",\\\"data_meating_con_\\\",\\\"on\\\",\\\"\\\",1,\\\"1\\\" );\\n</script>\\n</body>\\n</html>\"	String",
+					"settings":
+					{
+						"buffer_size": 21098,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<param name=\"FlashVars\" value=\"\nbcastr_file=\nhttp://192.168.14.95/res_base/rjcms/othor/2012/12/04/0000000000007421_145x145.jpg|\nhttp://192.168.14.95/res_base/rjcms/othor/2012/12/04/0000000000007404_145x145.jpg|\nhttp://192.168.14.95/res_base/rjcms/othor/2012/12/04/0000000000007400_145x145.jpg|\nhttp://192.168.14.95/res_base/rjcms/othor/2012/12/04/0000000000007391_145x145.jpg|\nhttp://192.168.14.95/res_base/rjcms/othor/2012/12/02/0000000000007325_145x145.jpg|\nhttp://192.168.14.95/res_base/rjcms/othor/2012/12/01/0000000000007282_145x145.jpg&\nbcastr_link=\n/cms/ar/20121204077128.htm|\n/cms/ar/20121204432704.htm|\n/cms/ar/20121204283600.htm|\n/cms/ar/20121204011707.htm|\n/cms/ar/20121202792737.htm|\n/cms/ar/20121201791597.htm&\nbcastr_title=\n深山种起“摇钱树”|\n建设生态文明 添彩美丽中国|\n脐橙飘香时游客采摘忙|\n看病报销 足不出村|\n闽侯县喜迎十八大图片展作品选登（城市建设篇）|\n闽侯县喜迎十八大图片展作品选登（城市建设篇）\n\"/>\n\n\n\n\n<param name=\"FlashVars\" value=\"\nbcastr_file=\n/cms/fpd/images/preview_1.jpg|\n/cms/fpd/images/preview_2.jpg|\n/cms/fpd/images/preview_3.jpg|\n/cms/fpd/images/preview_4.jpg|\n/cms/fpd/images/preview_5.jpg|\n/cms/fpd/images/preview_6.jpg&\nbcastr_link=\nhttp://www.rongji.com/|\nhttp://www.rongji.com/|\nhttp://www.rongji.com/|\nhttp://www.rongji.com/|\nhttp://www.rongji.com/|\nhttp://www.rongji.com/&\nbcastr_title=\n测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据|测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据|测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据|测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据|测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据|测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据\"/>",
+					"settings":
+					{
+						"buffer_size": 1660,
+						"line_ending": "Windows",
+						"name": "<param name=\"FlashVars\" value=\""
+					}
+				},
+				{
+					"contents": "<HTML><HEAD><TITLE>两会专题_闽侯县政府门户网站</TITLE><BASE href=\"http://192.168.4.198:8081/cms//res_root/cszd/templates/00001316/\">\n<META content=IE=EmulateIE7 http-equiv=X-UA-Compatible>\n<META content=zh-cn http-equiv=Content-Language>\n<META content=\"application/xhtml+xml; charset=UTF-8\" http-equiv=Content-Type>\n<META name=keywords content=\" \">\n<META name=description content=\"\"><LINK rel=stylesheet type=text/css href=\"style/layout.css\"><LINK rel=stylesheet type=text/css href=\"style/lianghui_master.css\"><LINK rel=stylesheet type=text/css href=\"style/lianghui_index.css\">\n<SCRIPT type=text/javascript src=\"javascript/tab.exam.js\"></SCRIPT>\n\n<SCRIPT type=text/javascript src=\"javascript/main.js\"></SCRIPT>\n\n<SCRIPT type=text/javascript src=\"javascript/swfobject.js\"></SCRIPT>\n\n<STYLE id=cms_sys_height type=text/css>#data_c_flash {\n	HEIGHT: 226px; MIN-HEIGHT: 226px\n}\n#mod_d_l_box_1 {\n	HEIGHT: 170px; MIN-HEIGHT: 170px\n}\n#mod_d_l_box_2 {\n	HEIGHT: 300px; MIN-HEIGHT: 300px\n}\n#mod_n_r_box_1 {\n	HEIGHT: 200px; MIN-HEIGHT: 200px\n}\n#mod_n_r_box_2 {\n	HEIGHT: 190px; MIN-HEIGHT: 190px\n}\n#mod_n_r_box_3 {\n	HEIGHT: 199px; MIN-HEIGHT: 199px\n}\n#mod_n_r_box_31 {\n	HEIGHT: 300px; MIN-HEIGHT: 300px\n}\n#data_btm_nav {\n	HEIGHT: 27px; MIN-HEIGHT: 27px\n}\n</STYLE>\n\n<SCRIPT id=cms_sys_jscfg>var Cfg={path:'/cms/'}</SCRIPT>\n\n<SCRIPT id=cms_sys_jstpl src=\"/cms/fpd/tpl.js\"></SCRIPT>\n<LINK id=cms_sys_link0 rel=stylesheet type=text/css href=\"/cms/fpd/global.css\"><LINK id=cms_sys_link1 rel=stylesheet type=text/css href=\"/cms/fpd/data_module.css\">\n<SCRIPT>var PL=parent.PL,DFish=parent.DFish,Fn=parent.Fn;if(parent.Cfg&&!parent.Cfg.php){window.onerror=function(){return !1}}</SCRIPT>\n</HEAD>\n<BODY>\n<SCRIPT language=javascript> \n															linkarr = new Array();\n															picarr = new Array();\n															textarr = new Array();\n															var swf_width=\"100%\";\n															var swf_height=\"100%\";\n															//文字颜色|文字位置|文字背景颜色|文字背景透明度|按键文字颜色|按键默认颜色|按键当前颜色|自动播放时间|图片过渡效果|是否显示按钮|打开方式\n															var configtg='0xffffff|10px|0xc20c00|5|0xffffff|0xc20c00|0x000033|2|3|1|_blank';\n															var files = \"\";\n															var links = \"\";\n															var texts = \"\";\n															//这里设置调用标记								\n															var vos = [ { image : \"/cms/fpd/images/preview_1.jpg\", icon : \"/cms/fpd/images/preview_icon_1.jpg\", title : \"测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据\", link : \"http://www.rongji.com/\", desc : \"测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据\" }, { image : \"/cms/fpd/images/preview_2.jpg\", icon : \"/cms/fpd/images/preview_icon_2.jpg\", title : \"测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据\", link : \"http://www.rongji.com/\", desc : \"测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据\" }, { image : \"/cms/fpd/images/preview_3.jpg\", icon : \"/cms/fpd/images/preview_icon_3.jpg\", title : \"测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据\", link : \"http://www.rongji.com/\", desc : \"测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据\" }, { image : \"/cms/fpd/images/preview_4.jpg\", icon : \"/cms/fpd/images/preview_icon_4.jpg\", title : \"测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据\", link : \"http://www.rongji.com/\", desc : \"测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据\" }, { image : \"/cms/fpd/images/preview_5.jpg\", icon : \"/cms/fpd/images/preview_icon_5.jpg\", title : \"测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据\", link : \"http://www.rongji.com/\", desc : \"测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据\" }, { image : \"/cms/fpd/images/preview_6.jpg\", icon : \"/cms/fpd/images/preview_icon_6.jpg\", title : \"测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据\", link : \"http://www.rongji.com/\", desc : \"测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据\" } ];\n															/* 本段js作用动态生成flash所需格式的数据，原始数据格式如vos。如有所需格式不一致，请重写本方法。 */\n															if(vos.length > 0){\n																for(var i in vos){\n																	texts += vos[i].title;\n																	if(i != vos.length-1){ texts += '|'; }\n																}\n																for(var j in vos){\n																	files += vos[j].image;\n																	if(j != vos.length-1){ files += '|'; }\n																}\n																for(var f in vos){\n																	links += vos[f].link;\n																	if(f != vos.length-1){ links += '|'; }\n																}\n															}\n															\n															document.write('<object classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" codebase=\"http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0\" width=\"'+ swf_width +'\" height=\"'+ swf_height +'\">');\n															document.write('<param name=\"movie\" value=\"flash/bcastr3.swf\"><param name=\"quality\" value=\"high\">');\n															document.write('<param name=\"menu\" value=\"false\"><param name=wmode value=\"opaque\">');\n															document.write('<param name=\"FlashVars\" value=\"bcastr_file='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'\">');\n															document.write('<embed src=\"flash/bcastr3.swf\" wmode=\"opaque\" FlashVars=\"bcastr_file='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'& menu=\"false\" quality=\"high\" width=\"'+ swf_width +'\" height=\"'+ swf_height +'\" type=\"application/x-shockwave-flash\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" />'); document.write('</object>'); \n														</SCRIPT>\n\n</BODY></HTML>",
+					"settings":
+					{
+						"buffer_size": 5505,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00001316/a.html",
+					"settings":
+					{
+						"buffer_size": 5505,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00001316/b.html",
+					"settings":
+					{
+						"buffer_size": 5184,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/J/file/cms/前端定制/模板/cms_example_v1.43/list.html",
+					"settings":
+					{
+						"buffer_size": 8880,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "",
+					"file": "/C/Users/rjf/AppData/Local/Temp/fz3temp-2/callajax.js",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 0,
 						"line_ending": "Windows"
 					}
 				}
@@ -676,15 +806,23 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 58.0,
+				"height": 219.0,
 				"selected_items":
 				[
 					[
-						"form",
+						"for",
 						"Format: Javascript"
 					],
 					[
-						"for",
+						"hex",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"form",
 						"Format: Javascript"
 					],
 					[
@@ -718,10 +856,6 @@
 					[
 						"w",
 						"Word Wrap: Toggle"
-					],
-					[
-						"hex",
-						"Hex Viewer: Toggle Hex View"
 					],
 					[
 						"pci",
@@ -845,11 +979,31 @@
 			},
 			"file_history":
 			[
-				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/index.html",
+				"/C/Program Files/Sublime Text 2/Data/.gitignore",
+				"/C/Users/rjf/Downloads/cglib-2.2.2.pom",
+				"/G/Users/root/.m2/settings.xml",
+				"/D/apache-tomcat-6.0.32/logs/catalina.2013-03-13.log",
+				"/D/apache-tomcat-6.0.32/logs/catalina.out",
+				"/D/product/cms/cms7.0启动加载改进/1.1/FileConfigLoader.java",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-3/application.xml",
 				"/D/workspace/RJ-CMS7/WebRoot/WEB-INF/applicationContext.xml",
+				"/D/workspace/RJ-CMS7/WebRoot/WEB-INF/config/cms_config.xml",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00001316/index_preview.jsp",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00001316/index.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/index_women.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/index.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/crossdomain.xml",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00001327/peixun_preview.jsp",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/run.conf",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/run.sh",
+				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/application.xml",
+				"/D/product/2013研发团队测试题(v1.1)-阮杰锋/loading.html",
+				"/D/product/2013研发团队测试题(v1.1)-阮杰锋/tab.html",
+				"/D/workspace/RJ-CMS7/WebRoot/res_root/fjmh/templates/00000338/style/layout.css",
+				"/D/workspace/RJ-CMS7/WebRoot/WEB-INF/classes/test/CompanyTest.class",
+				"/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/index.html",
 				"/D/workspace/RJ-CMS7/WebRoot/WEB-INF/cms.properties",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/server 2.log",
-				"/D/workspace/RJ-CMS7/WebRoot/WEB-INF/config/cms_config.xml",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/department_index.jsp",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/department_index_bu_preview.jsp",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/department_index_bu.jsp",
@@ -895,7 +1049,6 @@
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/sso_config.xml",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/springHandler-servlet.xml",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/sso-controller.xml",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/application.xml",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/cms_log_config.xml",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/cms_config.xml",
 				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/list.html",
@@ -953,26 +1106,7 @@
 				"/K/nodejs/webapps/drag/js/drag.js",
 				"/K/nodejs/webapps/drag/js/jquery.gridster.with-extras.js",
 				"/J/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/list_preview.jsp",
-				"/J/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/list.html",
-				"/J/2项目开发/实施/monitoring/mt.sh",
-				"/C/Users/rjf/AppData/Local/Temp/Rar$DI71.896/template.xml",
-				"/D/项目/cms/rjcms7.sql",
-				"/J/workspace/markup-validator/htdocs/config/validator.conf",
-				"/J/workspace/markup-validator/httpd/conf/httpd.conf",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/config.inc.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/config.inc 2.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/index 2.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/mainPage.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/navBar.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/frmWorkArea.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/custom_config.inc.php.example",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/staticPage.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/const.inc.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/common.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/login.php",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/httpd-vhosts.conf",
-				"/K/nodejs/webapps/drag/development-bundle/grunt.js",
-				"/C/Users/rjf/AppData/Local/Temp/fz3temp-2/httpd-xampp.conf"
+				"/J/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00000930/list.html"
 			],
 			"find":
 			{
@@ -990,6 +1124,11 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"i",
+					"tab-pane",
+					"nav-tabs",
+					"wd",
+					"();\n",
 					"datasource",
 					"datasour",
 					"com.rongji.cms.persistence.CmsCatalogRelation",
@@ -1112,12 +1251,7 @@
 					"    </testsuite>",
 					"    <testsuite name=\"(.*?)\" time=\"(.*?)\">",
 					"      <testcase name=\"(.*?)\" classname=\"com.rongji.test.remains.RemainsTest\" time=\"(.*?)\"/>",
-					",\n",
-					"api.htm",
-					"About this Documentation Node.js v0.8.16 Manual & Documentation.htm",
-					"About this Documentation Node.js v0.8.16 Manual & Documentation_files",
-					"http://nodejs.org/api/all.html#",
-					"断点续传（暂不支持）"
+					",\n"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1183,15 +1317,15 @@
 							"buffer": 0,
 							"settings":
 							{
-								"buffer_size": 83,
+								"buffer_size": 149,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										83,
-										83
+										149,
+										149
 									]
 								],
 								"settings":
@@ -1298,43 +1432,15 @@
 							"buffer": 1,
 							"settings":
 							{
-								"buffer_size": 82,
+								"buffer_size": 134,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										63,
-										63
-									]
-								],
-								"settings":
-								{
-									"auto_name": "前端定制二次开发（实施方向）",
-									"encoding_helper_encoding_sublime": "UTF-8",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/workspace/RJ-CMS7/WebRoot/WEB-INF/applicationContext.xml",
-							"settings":
-							{
-								"buffer_size": 74026,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										73502,
-										73517
+										15,
+										15
 									]
 								],
 								"settings":
@@ -1345,6 +1451,7 @@
 										"README",
 										"FIXME"
 									],
+									"auto_name": "jvm问题排查",
 									"csslint_options":
 									{
 										"adjoining-classes": "warning",
@@ -1379,9 +1486,7 @@
 										"vendor-prefix": true,
 										"zero-units": "warning"
 									},
-									"encoding_helper_confidence": 1.0,
-									"encoding_helper_encoding": "UTF-8",
-									"encoding_helper_encoding_sublime": "UTF-8 with BOM",
+									"encoding_helper_encoding_sublime": "UTF-8",
 									"gjslint_ignore":
 									[
 										110
@@ -1430,29 +1535,722 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/XML/XML.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 31256.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
-							"buffer": 3,
-							"file": "/D/workspace/RJ-CMS7/WebRoot/WEB-INF/config/cms_config.xml",
+							"buffer": 2,
+							"file": "/C/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
 							"settings":
 							{
-								"buffer_size": 15544,
+								"buffer_size": 1285,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										5386,
-										5408
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Program Files/Sublime Text 2/Data/.gitignore",
+							"settings":
+							{
+								"buffer_size": 6,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6,
+										6
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"settings":
+							{
+								"buffer_size": 20604,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										185,
+										185
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"auto_name": "c	\"﻿<!DOCTYPE html PUBLIC \\\"-//W3C//DTD XHTML 1.",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"settings":
+							{
+								"buffer_size": 21098,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										21098,
+										21098
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"settings":
+							{
+								"buffer_size": 1660,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										979,
+										979
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"auto_name": "<param name=\"FlashVars\" value=\"",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"settings":
+							{
+								"buffer_size": 5505,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										5505
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00001316/a.html",
+							"settings":
+							{
+								"buffer_size": 5505,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2275,
+										2275
 									]
 								],
 								"settings":
@@ -1548,11 +2346,367 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/XML/XML.tmLanguage",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1302.0,
+								"translation.y": 765.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/D/apache-tomcat-6.0.32/webapps/cms/res_root/cszd/templates/00001316/b.html",
+							"settings":
+							{
+								"buffer_size": 5184,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2277,
+										2306
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 0.99,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 769.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/J/file/cms/前端定制/模板/cms_example_v1.43/list.html",
+							"settings":
+							{
+								"buffer_size": 8880,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5070,
+										5070
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8 with BOM",
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1683.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/C/Users/rjf/AppData/Local/Temp/fz3temp-2/callajax.js",
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8 with BOM",
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -1599,7 +2753,7 @@
 			{
 				"height": 112.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,917,394,156,1512",
+			"position": "0,2,3,-32000,-32000,-1,-1,871,632,110,1750",
 			"replace":
 			{
 				"height": 62.0
